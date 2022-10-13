@@ -1,0 +1,10 @@
+/Users/evanblasband/Documents/MCUXpressoIDE_11.6.0_8187/workspace/lpc_chip_40xx/inc/core_cm4.h:1467:22:NVIC_EnableIRQ	16	static
+/Users/evanblasband/Documents/MCUXpressoIDE_11.6.0_8187/workspace/lpc_chip_40xx/inc/core_cm4.h:1480:22:NVIC_DisableIRQ	16	static
+../example/src/i2c.c:72:13:i2c_state_handling	16	static
+../example/src/i2c.c:82:13:i2c_set_mode	16	static
+../example/src/i2c.c:96:13:i2c_app_init	16	static
+../example/src/i2c.c:108:13:i2c_read_setup	24	static
+../example/src/i2c.c:128:6:SysTick_Handler	4	static
+../example/src/i2c.c:136:6:I2C1_IRQHandler	8	static
+../example/src/i2c.c:145:6:I2C0_IRQHandler	8	static
+../example/src/i2c.c:154:5:main	24	static
